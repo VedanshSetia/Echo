@@ -1,0 +1,2 @@
+export const supabaseUrl="https://sftnrixxqxnodviyrtzw.supabase.co";
+export const supabaseAnonKey="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNmdG5yaXh4cXhub2R2aXlydHp3Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NDM5NzQ0ODcsImV4cCI6MjA1OTU1MDQ4N30.Irns939CGCtims5T1Or_8EvzmBXH4O9YIfXPTdPxvDw";
